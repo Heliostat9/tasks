@@ -1,0 +1,15 @@
+{
+    "name": "heliostat/task_1",
+    "autoload": {
+        "psr-4": {
+            "Heliostat\\Task1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Heliostat9",
+            "email": "heliostat@inbox.ru"
+        }
+    ],
+    "require": {}
+}
